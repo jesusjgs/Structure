@@ -1,7 +1,7 @@
 
 import unittest
 
-from Factorial import Factorial
+from Classes.Factorial import Factorial
 
 
 class TestMethods(unittest.TestCase):

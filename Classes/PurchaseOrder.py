@@ -1,4 +1,4 @@
-from Store import Store
+from Classes.Store import Store
 """
 Mocking example
 """

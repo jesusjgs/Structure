@@ -3,8 +3,8 @@ import unittest
 
 from mockito import mock, when, verify
 
-from PurchaseOrder import PurchaseOrder
-from Store import Store
+from Classes.PurchaseOrder import PurchaseOrder
+from Classes.Store import Store
 
 
 class TestMethods(unittest.TestCase):
